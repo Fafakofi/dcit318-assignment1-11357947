@@ -1,0 +1,15 @@
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\bin\Debug\net9.0\ASSIGNMENT1.exe
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\bin\Debug\net9.0\ASSIGNMENT1.deps.json
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\bin\Debug\net9.0\ASSIGNMENT1.runtimeconfig.json
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\bin\Debug\net9.0\ASSIGNMENT1.dll
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\bin\Debug\net9.0\ASSIGNMENT1.pdb
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.AssemblyInfoInputs.cache
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.AssemblyInfo.cs
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.csproj.CoreCompileInputs.cache
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.sourcelink.json
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.dll
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\refint\ASSIGNMENT1.dll
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.pdb
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ASSIGNMENT1.genruntimeconfig.cache
+C:\Users\elitebook\Documents\DCIT318\assignment 1\ASSIGNMENT1\obj\Debug\net9.0\ref\ASSIGNMENT1.dll
