@@ -22,5 +22,19 @@ class Program
 
         double price = isYoung.CalculateTicketPrice(age);
         Console.WriteLine($"Your ticket price is: GHC{price}, enjoy your movie!");
+
+       TriangleClassifier classifier = new TriangleClassifier();
+
+        Console.Write("Enter side 1: ");
+        double side1 = double.Parse(Console.ReadLine());
+
+        Console.Write("Enter side 2: ");
+        double side2 = double.Parse(Console.ReadLine());
+
+        Console.Write("Enter side 3: ");
+        double side3 = double.Parse(Console.ReadLine());
+
+        string result = classifier.ClassifyTriangle(side1, side2, side3);
+        Console.WriteLine($"The triangle is {result}");
     }
 }
