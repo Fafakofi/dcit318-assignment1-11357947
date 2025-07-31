@@ -14,5 +14,13 @@ class Program
         GradeCalculator calculator = new GradeCalculator();
         string grade = calculator.CalculateGrade(score);
         Console.WriteLine($"Your grade is: {grade}");
+
+        TicketCalculator isYoung = new TicketCalculator();
+
+        Console.Write("Enter your age: ");
+        int age = int.Parse(Console.ReadLine());
+
+        double price = isYoung.CalculateTicketPrice(age);
+        Console.WriteLine($"Your ticket price is: GHC{price}, enjoy your movie!");
     }
 }
